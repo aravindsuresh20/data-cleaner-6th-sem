@@ -1,0 +1,19 @@
+Data Cleaner(References)
+1. Jesmeen, M.Z.H., Hossen, J., Sayeed, S., Ho, C.K., Tawsif, K., Rahman, A. and Arif, E., 
+2018. A survey on cleaning dirty data using machine learning paradigm for big data 
+analytics. Indonesian Journal of Electrical Engineering and Computer Science, 10(3), 
+pp.1234-1243.
+2. .Neutatz, F., Chen, B., Abedjan, Z. and Wu, E., 2021. From Cleaning before ML to 
+Cleaning for ML. IEEE Data Eng. Bull., 44(1), pp.24-41.
+3. Ga Young Lee, Lubna Alzamil, Bakhtiyar Doskenov, Arash Termehchy Cite As: 
+arXiv:2109.07127 [cs.DB]
+4. Mahdavi, M., Neutatz, F., Visengeriyeva, L. and Abedjan, Z., 2019. Towards automated 
+data cleaning workflows. Machine Learning, 15, p.16.
+5. Corrales, D.C., Corrales, J.C. and Ledezma, A., 2018. How to address the data quality 
+issues in regression models: a guided process for data cleaning. Symmetry, 10(4), p.99
+
+6.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1198040/
+7. https://www.researchgate.net/publication/278301609_Data_Cleaning_Current_Approaches_and
+_Issues 
+8. https://www.ijcsmc.com/docs/papers/March2015/V4I3201599a30.pdf 
+9.https://dsf.berkeley.edu/jmh/papers/cleaning-unece.pdf
